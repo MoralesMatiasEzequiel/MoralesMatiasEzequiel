@@ -6,16 +6,19 @@
 </div>
 
 ---
-
-<img align="right" alt="GIF" height="250px" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" />
+<div>
+  <img align="right" alt="GIF" height="250px" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" />
 
 ### Graduate of [Henry](https://www.soyhenry.com/) 2 years ago
 
-<p>During that time, I not only gained experience with a wide range of technical tools, but also strengthened my problem-solving mindset and rediscovered the value of collaboration, skills that have consistently guided me.</p> 
+  <p>During that time, I not only gained experience with a wide range of technical tools, but also strengthened my problem-solving mindset and rediscovered the value of collaboration, skills that have consistently guided me.</p> 
 
-- My last project **[Viviendas Platense](https://www.youtube.com/watch?v=dKo6p3L4gQc&pp=0gcJCesJAYcqIYzv)**
-- My first project **[MJ](https://www.youtube.com/watch?v=sItKr9uA8Ps)**
-- My most ambitious project **[Indira Gold](https://www.youtube.com/watch?v=jysV2BSuHlc)**
+  - My last project **[Viviendas Platense](https://www.youtube.com/watch?v=dKo6p3L4gQc&pp=0gcJCesJAYcqIYzv)**
+  - My first project **[MJ](https://www.youtube.com/watch?v=sItKr9uA8Ps)**
+  - My most ambitious project **[Indira Gold](https://www.youtube.com/watch?v=jysV2BSuHlc)**
+</div>
+
+---
 
 <p>Languages and Technologies I use or had used</p>
 
