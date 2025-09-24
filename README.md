@@ -13,9 +13,9 @@
 
 <p>During that time, I not only gained experience with a wide range of technical tools, but also strengthened my problem-solving mindset and rediscovered the value of collaboration, skills that have consistently guided me.</p> 
 
-- **[My last project Viviendas Platense](https://www.youtube.com/watch?v=dKo6p3L4gQc&pp=0gcJCesJAYcqIYzv)**
-- **[My first project MJ](https://www.youtube.com/watch?v=sItKr9uA8Ps)**
-- **[My most ambitious project Indira Gold](https://www.youtube.com/watch?v=jysV2BSuHlc)**
+- My last project **[Viviendas Platense](https://www.youtube.com/watch?v=dKo6p3L4gQc&pp=0gcJCesJAYcqIYzv)**
+- My first project **[MJ](https://www.youtube.com/watch?v=sItKr9uA8Ps)**
+- My most ambitious project **[Indira Gold](https://www.youtube.com/watch?v=jysV2BSuHlc)**
 
 <p>Languages and Technologies I use or had used</p>
 
