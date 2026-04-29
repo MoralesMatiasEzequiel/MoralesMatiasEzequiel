@@ -20,7 +20,7 @@ During that time, I not only gained experience with a wide range of technical to
 
 ##### Languages and Technologies I use or had used
 
-  <div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
       </a> 
