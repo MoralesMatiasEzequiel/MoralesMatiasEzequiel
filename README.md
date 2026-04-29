@@ -20,7 +20,7 @@ During that time, I not only gained experience with a wide range of technical to
 
 ##### Languages and Technologies I use or had used
 
-<table align="center" style="border-collapse: collapse;">
+<table align="center" style="border-collapse: collapse; border: none;" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="60" style="border: none;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
