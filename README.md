@@ -20,7 +20,7 @@ During that time, I not only gained experience with a wide range of technical to
 
 ##### Languages and Technologies I use or had used
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center" width="60">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
